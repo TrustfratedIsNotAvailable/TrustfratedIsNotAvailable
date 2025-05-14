@@ -20,7 +20,7 @@ I'm a frontend developer passionate about crafting responsive, user-friendly web
 ## 📫 Contact Me
 
 <p>
-  <a href="mailto:mithilanusrat689@gmail.com">
+  <a href="mailto:nusratmithila524@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nusrat-jahan-mithila-6031a6240" target="_blank">
@@ -32,4 +32,4 @@ I'm a frontend developer passionate about crafting responsive, user-friendly web
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrustfratedIsNotAvailable&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrustfratedIsNotAvailable&show_icons=true&theme=radical)
