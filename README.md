@@ -32,4 +32,4 @@ I'm a frontend developer passionate about crafting responsive, user-friendly web
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrustfratedIsNotAvailable&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrustfratedIsNotAvailable&show_icons=true&theme=radical&cache_seconds=60)
