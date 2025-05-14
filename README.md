@@ -1,45 +1,42 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Nusrat Jahan Mithila
 
 **Frontend Developer | MERN Stack Enthusiast | Student at Jahangirnagar University**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TrustfratedIsNotAvailable&color=blue)
 
-I'm a frontend developer who loves crafting clean and responsive UIs using **React**, **Tailwind CSS**, and **DaisyUI**. I'm also comfortable working with **Firebase** for authentication and hosting, and I enjoy building full-stack applications using the **MERN stack**.
+I'm a frontend developer passionate about crafting responsive, user-friendly web interfaces. I work with the **MERN stack**, love building with **React**, and bring designs to life using **Tailwind CSS** and **DaisyUI**. I also use **Firebase** for authentication and hosting.
 
 ---
 
 ## 💻 Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, DaisyUI, HTML5, CSS3
-- **Backend**: Node.js, Express.js, MongoDB
-- **Tools & Platforms**: Firebase, Git & GitHub, VS Code
-- **Languages**: JavaScript
+- **Frontend**: React.js, Tailwind CSS, DaisyUI, HTML5, CSS3  
+- **Backend**: Node.js, Express.js, MongoDB  
+- **Tools & Platforms**: Firebase, Git & GitHub 
+- **Language**: JavaScript
 
 ---
 
-## 🔭 Currently Exploring
+## 📫 Contact Me
 
-- Building fully functional MERN stack apps
-- Using Firebase for auth & real-time features
-- Designing better UI/UX with component libraries
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: mithilanusrat689@gmail.com  
-- 💼 LinkedIn: [Nusrat Jahan Mithila](https://www.linkedin.com/in/nusrat-jahan-mithila-6031a6240)
+<p>
+  <a href="mailto:mithilanusrat689@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nusrat-jahan-mithila-6031a6240" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrustfratedIsNotAvailable&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrustfratedIsNotAvailable&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrustfratedIsNotAvailable&layout=compact&theme=radical)
 
 ---
 
-Thanks for stopping by! I'm always learning and building – feel free to check out my work.
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
 
+Thanks for visiting my profile! 🌸
