@@ -33,10 +33,3 @@ I'm a frontend developer passionate about crafting responsive, user-friendly web
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrustfratedIsNotAvailable&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrustfratedIsNotAvailable&layout=compact&theme=radical)
-
----
-
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
-
-Thanks for visiting my profile! 🌸
